@@ -1,6 +1,6 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<h3>Sass плагин для Sass плагин для MODX</h3>
+<h3>Sass плагин для MODX</h3>
 Удобный инструмент для верстки, создание и понимание работы плагинов в MODx.
 <p><i>Начинающим: удобный инструмент для верстки, создание и понимание работы плагинов в MODX.</i></p>
 <h3 class="sub-header text-bold">Sass – правильный CSS</h3>
